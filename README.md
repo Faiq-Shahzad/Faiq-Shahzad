@@ -7,40 +7,31 @@
 <hr/>
 <h4 align="center">I am a Senior at FAST-NUCES Islamabad, Pakistan. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="HxnDev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Faiq-Shahzad" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="HxnDev"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiq-Shahzad&theme=algolia" alt="Faiq-Shahzad"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HxnDev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Faiq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faiq-Shahzad&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HxnDev" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiq-Shahzad&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Faiq-Shahzad" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="Hxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HxnDev&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Faiq-Shahzad"><img alt="Faiq's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Faiq-Shahzad&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-## 🐍 See my contributions being eaten by a snake:
-![Snake Gif](https://github.com/HxnDev/HxnDev/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
@@ -63,7 +54,6 @@
   </a>
 </p>
 
-### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -79,7 +69,6 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
@@ -90,40 +79,11 @@
 	&emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://shields.io/badge/mongo-db?logo=mongodb&logoColor=white"></a>
  </p>
- 
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
 
 ## 📫 Contact Me: 
 <p align="center">
-  <a href="http://www.hxndev.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:chhxnshah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/HxnDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hassan-shahzad-2a6617212/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/hxn_photography/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+  <a href="http://www.faiqdev.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:faiqshahzad933@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Faiq-Shahzad"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/faiqshahzad933"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>
