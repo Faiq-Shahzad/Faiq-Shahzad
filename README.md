@@ -26,7 +26,7 @@
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/Faiq-Shahzad"><img alt="Faiq's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Faiq-Shahzad&custom_title=Faiq%20Shahzad's%20Contribution%20Graph&theme=blood-dark" /></a>
+   <a href="https://github.com/Faiq-Shahzad"><img alt="Faiq's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Faiq-Shahzad&custom_title=Faiq%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## 🛠️ My Skills
