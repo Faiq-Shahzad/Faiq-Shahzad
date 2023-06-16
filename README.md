@@ -5,7 +5,6 @@
 	<ul>
 		<li>Web Developer</li>
 		<li>Android Application Developer</li>
-		<li>Block Chain Developer</li>
 	</ul>
 </p>
 
